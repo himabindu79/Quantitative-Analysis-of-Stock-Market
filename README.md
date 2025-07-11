@@ -3,14 +3,6 @@
 This project implements a **quantitative analysis of the stock market using Python**, inspired by [Aman Kharwal's tutorial]
  It uses historical stock price data to generate insights through statistical calculations and visualizations.
 
-## 📁 Project Structure
-
-QUANTITATIVE-ANALYSIS-OF-STOCK-MARKET/
-├── README.md # Project documentation
-├── stock_market.ipynb # notebook for full analysis
-├── stocks.csv # CSV file with list of stock tickers
-└── images # Output plots and visualizations
-
 
 
 ## Analysis
